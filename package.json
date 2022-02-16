@@ -1,6 +1,6 @@
 {
   "name": "docusaurus-plugin-help-widget",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "A help widget for your docusaurus site",
   "main": "src/index.js",
   "private": false,
