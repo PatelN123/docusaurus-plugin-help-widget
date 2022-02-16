@@ -1,10 +1,9 @@
-const path = require("path");
-
 module.exports = function(context) {
   return {
     name: "docusaurus-plugin-help-widgets",
 
     injectHtmlTags() {
+      console.log("hello");
       return {
         headTags: [
           {
