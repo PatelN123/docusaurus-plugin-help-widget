@@ -1,0 +1,24 @@
+{
+  "name": "docusaurus-plugin-help-widget",
+  "version": "1.0.0",
+  "description": "A help widget for your docusaurus site",
+  "main": "src/index.js",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "src",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=10.15.1"
+  },
+  "keywords": [
+    "help",
+    "widget",
+    "support"
+  ],
+  "author": "Nayan Patel",
+  "license": "MIT"
+}
